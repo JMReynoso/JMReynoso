@@ -11,4 +11,4 @@ About me:
 - Cat dad of 3
 - 🇵🇭
 - needs daily matcha
-- Hobbies: gaming, tv rotting, food and culture, language learning
+- Hobbies: gaming, tv rotting, food and culture, language learning, music production
