@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Justin, I am a Software Engineer and Backend Developer based in Jacksonvile, FL!<br><br>My personal repositories here consists of apps that I don't want to pay a subscription for. ✨ Most of which are still a work in progress.<br><br>I tend to over-engineer my apps, making them full-stack just to keep myself in practice.<br><br>About me:<br>- Cat dad of 3<br>- 🇵🇭 /  🏳️‍🌈<br>- needs daily matcha<br>- Hobbies: gaming, tv rotting, food and culture, language learning, music production
+I'm Justin, I am a Software Engineer and Backend Developer based in Jacksonvile, FL!<br><br>My personal repositories here consists of apps that I don't want to pay a subscription for. ✨ Most of which are still a work in progress.<br><br>I tend to over-engineer my apps, making them full-stack just to keep myself in practice. I also selfhost my apps on my personal server and expose them via cloudflare just cause I don't want to pay for VPS<br><br>About me:<br>- Cat dad of 3<br>- 🇵🇭 /  🏳️‍🌈<br>- needs daily matcha<br>- Hobbies: gaming, tv rotting, food and culture, language learning, music production
 
 
 ## 🌐 Socials:
